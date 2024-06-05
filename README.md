@@ -24,7 +24,7 @@
 ## I will regularly add new channel logos, you can also message me and request logos
 
 
-[<img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/paypal-donate.png" width="150">](https://www.paypal.com/donate/?hosted_button_id=JTJ7FPU6TCHDW)
+[<img src="IMG_20240605_113353.jpg" width="250">]()
 
 
 * Did you discover a mistake? Or is something not like it should be? Then please let me know by sending me a message/email at tapio.sinnertwin(at)gmail.com
